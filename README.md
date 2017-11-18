@@ -1,5 +1,5 @@
 # pythonbeginne.github.io
-echo "# test" >> README.md
+echo "# pythonbeginne.github.io" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
